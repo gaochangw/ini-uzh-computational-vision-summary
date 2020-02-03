@@ -3,5 +3,5 @@
 - You need XMind (https://www.xmind.net/) to open the file.
 
 ### Contribution
-- Chang Gao - PhD Student at Institute of Neuroinformatics, UZH & ETHZ
-- Xi Chen - PhD Student at Institute of Neuroinformatics, UZH & ETHZ
+- [Chang Gao](https://services.ini.uzh.ch/admin/modules/uzh/person.php?id=62676&back=../uzh/people) - PhD Student at Institute of Neuroinformatics, UZH & ETHZ
+- [Xi Chen](https://services.ini.uzh.ch/admin/modules/uzh/person.php?id=71632&back=../uzh/people) - PhD Student at Institute of Neuroinformatics, UZH & ETHZ
